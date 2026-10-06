@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BearBin1215&layout=compact&hide_border=true&langs_count=8&theme=transparent" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BearBin1215&langs_count=6&layout=compact" width="49%" alt="languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BearBin1215&langs_count=6&layout=compact" alt="languages" />
   </picture>
 </p>
 
