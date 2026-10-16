@@ -4,15 +4,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=BearBin1215&layout=compact&hide_border=true&langs_count=6&theme=transparent&card_width=460px" />
-    <img src="https://github-stats-extended.vercel.app/api?username=BearBin1215&layout=compact&hide_border=true&langs_count=6&theme=transparent&card_width=460px" alt="languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=BearBin1215&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&card_width=460px" />
+    <img src="https://github-stats-extended.vercel.app/api?username=BearBin1215&layout=compact&hide_border=true&langs_count=6&theme=buefy&card_width=460px" alt="languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=BearBin1215&layout=compact&hide_border=true&langs_count=6&theme=transparent&card_width=460px" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BearBin1215&layout=compact&hide_border=true&langs_count=6&theme=transparent&card_width=460px" alt="languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=BearBin1215&layout=compact&hide_border=true&langs_count=6&theme=tokyonight&card_width=460px" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BearBin1215&layout=compact&hide_border=true&langs_count=6&theme=buefy&card_width=460px" alt="languages" />
   </picture>
 </p>
 
@@ -21,5 +21,14 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BearBin1215/BearBin1215/output/github-contribution-grid-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/BearBin1215/BearBin1215/output/github-contribution-grid-snake.svg" width="100%" alt="贡献贪吃蛇" />
   </picture>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,vue,rust,python,lua,less,sass,tailwind&perline=9&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=ts,react,vue,rust,python,lua,less,sass,tailwind&perline=9&theme=light" alt="技术栈" />
+    </picture>
+  </a>
 </p>
 
